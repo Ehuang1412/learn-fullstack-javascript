@@ -7,5 +7,5 @@ module.exports = {
 
     //This plug-in here is needed to enable the use of the new class fields syntax in 
     //classes
-    plugins: ['@babel/plugin-proposal-class-properties'],
+    // plugins: ['@babel/plugin-proposal-class-properties'],
 };
